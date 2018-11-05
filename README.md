@@ -1,24 +1,8 @@
-# README
+# A simple ruby on rails api
+Rails is a Ruby web framework which includes everything you need to build fantastic applications, and you can learn it with the support of our large, friendly community.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## Requirements
+ * ruby2.3
+ * rails 5.x
+ * sqlite
+ 
